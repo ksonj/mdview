@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "mdview",
-  "description": "Render markdown pages by button press",
-  "version": "0.1",
+  "description": "This extension adds a button to the toolbar that renders plain markdown documents to HTML",
+  "version": "1.0",
 
   "browser_action": {
     "default_icon": "icon.png",
